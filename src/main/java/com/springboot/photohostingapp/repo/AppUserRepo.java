@@ -1,6 +1,6 @@
 package com.springboot.photohostingapp.repo;
 
-import com.springboot.photohostingapp.AppUser;
+import com.springboot.photohostingapp.model.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

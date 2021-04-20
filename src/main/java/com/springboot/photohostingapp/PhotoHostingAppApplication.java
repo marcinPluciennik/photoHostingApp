@@ -1,4 +1,4 @@
-package com.springboot.photohostingapp.model;
+package com.springboot.photohostingapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
